@@ -12,7 +12,7 @@ for (let mail = 0; mail < mail_list.length; mail++) {
     if (mail_client == mail_list[mail]) {
     alert ('accesso autorizzato');
     accesso = true;
-        
+    }   
 }
     // console.log (mail_list[mail]);
 
